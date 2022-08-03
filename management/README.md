@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 개인 공부용입니다.
+본 프로젝트는 React 개인 공부 목적으로 만든 고객 관리 시스템 (Management System) 입니다.
 
 # Getting Started with Create React App
 
